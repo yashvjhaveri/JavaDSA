@@ -1,5 +1,4 @@
-⁜ DSA with Java
-Welcome to my Data Structures and Algorithms (DSA) repository!
+⁜ Welcome to my Data Structures and Algorithms (DSA) repository with Java!
 -----------------------------------------------------------------------------------------------------------
 ⁜ About
 Hi, I'm Yash Jhaveri, a Computer Science Engineering student at Navrachana University with a passion for technology and automobiles. This repository is dedicated to my journey of mastering Data Structures and Algorithms using Java.
